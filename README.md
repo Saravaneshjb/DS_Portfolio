@@ -10,7 +10,7 @@ Welcome to my Data Science Portfolio. Here, you'll find a collection of my proje
 A UI interface allows users to input the channel ID of a YouTube channel of interest. Using the Google API key, the project retrieves information about the channel, playlists, videos, and comments, storing the data in a backend database. The project also includes a visualization module where users can select from 10 questions, with data being retrieved and displayed from the database.
 
 **Technologies used:** Pandas, logging, exception handling, sqlconnector, mysqlworkbench, streamlit  
-**Link to access the Project:** [GitHub Repository](<Provide the GitHub repo link>)
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Youtube-Data-Harvesting)
 
 ---
 
@@ -20,7 +20,7 @@ A UI interface allows users to input the channel ID of a YouTube channel of inte
 This project involves cloning PhonePe's transaction and user data from a GitHub repository. The data is preprocessed into Python dataframes and stored in a backend database. An interactive geovisualization dashboard provides insights into transactions and user activity over different years and quarters, along with additional insights.
 
 **Technologies used:** Gitcloning, Pandas, logging, exception handling, sqlconnector, plotly, mysqlworkbench, streamlit  
-**Link to access the Project:** [GitHub Repository](<Provide the GitHub repo link>)
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Phonepe-Data-Visualization)
 
 ---
 
@@ -30,7 +30,7 @@ This project involves cloning PhonePe's transaction and user data from a GitHub 
 This project extracts customer details from business cards using a UI that allows users to upload the card. EasyOCR is used to extract the required information, which can then be stored, updated, or deleted in a database as needed.
 
 **Technologies used:** easyOCR, Pandas, logging, exception handling, sqlconnector, mysqlworkbench, streamlit  
-**Link to access the Project:** [GitHub Repository](<Provide the GitHub repo link>)
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Business-card-data-Extractor)
 
 ---
 
@@ -40,7 +40,7 @@ This project extracts customer details from business cards using a UI that allow
 Analyzing various Airbnb properties worldwide, this project offers insights into property prices, review scores, amenities, and occupancy over different years and months. A map visualization displays property details globally, with options to filter by country, city, and property type.
 
 **Technologies used:** Pandas, plotly, streamlit, powerbi  
-**Link to access the Project:** [GitHub Repository](<Provide the GitHub repo link>)
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/AirBnB-Data-Analysis-and-Visualization)
 
 ---
 
@@ -50,7 +50,7 @@ Analyzing various Airbnb properties worldwide, this project offers insights into
 Addressing issues like skewness and noisy data in the copper industry, this project involves creating machine learning models for regression (predicting selling price) and classification (predicting status). Advanced techniques like data normalization and outlier detection are used to improve prediction accuracy.
 
 **Technologies used:** Pandas, numpy, stats, scipy, plotly, sklearn, streamlit  
-**Link to access the Project:** [GitHub Repository](<Provide the GitHub repo link>)
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Industrial-Copper-Modelling)
 
 ---
 
