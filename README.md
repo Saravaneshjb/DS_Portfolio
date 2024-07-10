@@ -60,7 +60,8 @@ Addressing issues like skewness and noisy data in the copper industry, this proj
 Developing a machine learning model to predict the resale prices of flats in Singapore, this project deploys a user-friendly web application based on historical resale data. It assists buyers and sellers by estimating resale values considering factors like location, flat type, floor area, and lease duration.
 
 **Technologies used:** Pandas, numpy, stats, scipy, plotly, sklearn, streamlit, aws  
-**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Singapore-Flat-Resale-Price-Prediction)
+**Github Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Singapore-Flat-Resale-Price-Prediction)
+**Application Link:** [GitHub Repository](https://singapore-flat-resale-tzyy.onrender.com/)
 
 ---
 
