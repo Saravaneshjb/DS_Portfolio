@@ -61,7 +61,7 @@ Developing a machine learning model to predict the resale prices of flats in Sin
 
 **Technologies used:** Pandas, numpy, stats, scipy, plotly, sklearn, streamlit, aws  
 **Github Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Singapore-Flat-Resale-Price-Prediction)
-**Application Link:** [GitHub Repository](https://singapore-flat-resale-tzyy.onrender.com/)
+**Application Link:** [Render Application Link](https://singapore-flat-resale-tzyy.onrender.com/)
 
 ---
 
