@@ -72,7 +72,7 @@ Developing a machine learning model to predict the resale prices of flats in Sin
 This project involves creating a machine learning model to help banks and financial institutions assess the risk of potential borrowers defaulting on loans, aiding in loan approval decisions.
 
 **Technologies used:** Pandas, numpy, stats, scipy, plotly, sklearn, streamlit, aws  
-**Link to access the Project:** [GitHub Repository](<Provide the GitHub repo link>)
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/Bank-Risk-Controller)
 
 ---
 
