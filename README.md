@@ -76,6 +76,17 @@ This project involves creating a machine learning model to help banks and financ
 
 ---
 
+## 7. Sentiment Analysis and Next Word Prediction
+
+<img src="https://www.bizagi.com/files/live/sites/bizagi/files/Blogs/Risk%20Management%20in%20Banking.jpg" alt="Youtube Logo" width="100"/>
+
+This project involves creating a machine learning model to help banks and financial institutions assess the risk of potential borrowers defaulting on loans, aiding in loan approval decisions.
+
+**Technologies used:** Pandas, numpy, stats, scipy, plotly, sklearn, streamlit, aws  
+**Link to access the Project:** [GitHub Repository](https://github.com/Saravaneshjb/sentiment-analysis-and-next-word-prediction)
+
+--
+
 ## 8. Bank Customer Queries - Chatbot
 <img src="https://s4769.pcdn.co/wp-content/uploads/2023/05/GenAI-Chatbots-Marketing-1024x597.png" alt="Youtube Logo" width="100"/>
 
